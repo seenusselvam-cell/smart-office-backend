@@ -1,0 +1,5 @@
+# Initialize git in your project folder
+git init
+
+# Add remote origin (replace USERNAME with your GitHub username)
+git remote add origin https://github.com/USERNAME/smart-office-backend.git
